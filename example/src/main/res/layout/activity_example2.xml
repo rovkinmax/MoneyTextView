@@ -21,9 +21,9 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
-            app:symbol="¥"
+            app:mtSymbol="¥"
             />
 
         <org.fabiomsr.moneytextview.MoneyTextView
@@ -32,10 +32,10 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:decimalDigitsTextSize="18sp"
-            app:symbol="¥"
+            app:mtSymbol="¥"
             />
 
         <org.fabiomsr.moneytextview.MoneyTextView
@@ -44,10 +44,10 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:symbolTextSize="18sp"
-            app:symbol="€"
+            app:mtSymbol="€"
             />
 
         <org.fabiomsr.moneytextview.MoneyTextView
@@ -56,11 +56,11 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:symbolTextSize="18sp"
             app:decimalDigitsTextSize="18sp"
-            app:symbol="€"
+            app:mtSymbol="€"
             />
 
         <org.fabiomsr.moneytextview.MoneyTextView
@@ -69,7 +69,7 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             />
 
@@ -79,11 +79,11 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:decimalDigitsTextSize="18sp"
             app:decimalMargin="6dp"
-            app:symbol="$"
+            app:mtSymbol="$"
             />
 
         <org.fabiomsr.moneytextview.MoneyTextView
@@ -92,11 +92,11 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:decimalDigitsTextSize="18sp"
             app:symbolTextSize="18sp"
-            app:symbol="BTC"
+            app:mtSymbol="BTC"
             />
     </LinearLayout>
 
@@ -114,9 +114,9 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
-            app:symbol="¥"
+            app:mtSymbol="¥"
             />
 
         <org.fabiomsr.moneytextview.MoneyTextView
@@ -125,10 +125,10 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:decimalDigitsTextSize="18sp"
-            app:symbol="¥"
+            app:mtSymbol="¥"
             />
 
         <org.fabiomsr.moneytextview.MoneyTextView
@@ -137,10 +137,10 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:symbolTextSize="18sp"
-            app:symbol="€"
+            app:mtSymbol="€"
             />
 
         <org.fabiomsr.moneytextview.MoneyTextView
@@ -149,11 +149,11 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:symbolTextSize="18sp"
             app:decimalDigitsTextSize="18sp"
-            app:symbol="€"
+            app:mtSymbol="€"
             />
 
         <org.fabiomsr.moneytextview.MoneyTextView
@@ -162,7 +162,7 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             />
 
@@ -172,11 +172,11 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:decimalDigitsTextSize="18sp"
             app:decimalMargin="6dp"
-            app:symbol="$"
+            app:mtSymbol="$"
             app:symbolGravity="bottom"
             />
 
@@ -186,11 +186,11 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             app:baseTextColor="@color/color_two"
-            app:amount="125.3558"
+            app:mtAmount="125.3558"
             app:baseTextSize="28sp"
             app:decimalDigitsTextSize="18sp"
             app:symbolTextSize="18sp"
-            app:symbol="BTC"
+            app:mtSymbol="BTC"
             />
     </LinearLayout>
 

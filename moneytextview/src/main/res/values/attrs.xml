@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="MoneyTextView">
-        <attr name="format" format="string"/>
-        <attr name="symbol" format="string"/>
-        <attr name="amount" format="float"/>
+        <attr name="mtFormat" format="string"/>
+        <attr name="mtSymbol" format="string"/>
+        <attr name="mtAmount" format="float"/>
         <attr name="symbolMargin" format="dimension"/>
         <attr name="decimalMargin" format="dimension"/>
         <attr name="decimalSeparator" format="string"/>
@@ -24,7 +24,7 @@
             <enum name="bottom" value="8"/>
         </attr>
 
-        <attr name="gravity">
+        <attr name="mtGravity">
             <enum name="left" value="0x01"/>
             <enum name="right" value="0x02"/>
             <enum name="top" value="0x04"/>
@@ -42,5 +42,5 @@
         <attr name="decimalUnderline" format="boolean"/>
         <attr name="fontPath" format="string"/>
     </declare-styleable>
-    
+
 </resources>

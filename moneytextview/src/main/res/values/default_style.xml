@@ -2,8 +2,8 @@
 <resources>
 
     <style name="MoneyTextViewDefaultStyle">
-        <item name="format">@string/default_format</item>
-        <item name="symbol">$</item>
+        <item name="mtFormat">@string/default_format</item>
+        <item name="mtSymbol">$</item>
         <item name="decimalSeparator">\'</item>
         <item name="baseTextSize">18sp</item>
         <item name="baseTextColor">#000000</item>
@@ -63,11 +63,11 @@
 
 
     <style name="MoneyTextViewStyleI" parent="MoneyTextViewStyleA">
-        <item name="symbol"></item>
+        <item name="mtSymbol"></item>
     </style>
 
     <style name="MoneyTextViewStyleJ" parent="MoneyTextViewStyleB">
-        <item name="symbol"></item>
+        <item name="mtSymbol"></item>
     </style>
 
 
